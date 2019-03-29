@@ -1,0 +1,3 @@
+untuk melakukan binary search tree, harus meng-transversal data pohon 
+lalu untuk kasus terbururk bst akan memiliki kompleksitas O(n) atau secara umum memiliki 
+kompleksitas O(h) dimana h adalah kedalaman bst
